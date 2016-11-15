@@ -21,6 +21,6 @@ class Solution {
     
 }
 
-let arr = [1, 2, 3, 5]
+let arr = [2, 3, 1, 5]
 let missingNumber = Solution.solution(input: arr)
 print("The missing number is: \(missingNumber)")
