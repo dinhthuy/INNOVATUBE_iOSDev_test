@@ -1,5 +1,5 @@
-
-import Foundation
+//NNOVATUBE/iOS developer - Testing Application
+//Author: Vu Dinh Thuy
 
 class Solution {
     
